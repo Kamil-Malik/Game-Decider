@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameDecider</string>
+    <string name="geometry_dash">Geometry Dash</string>
+    <string name="tambahkan_game">Tambahkan Game</string>
+    <string name="tambah">Tambah</string>
+    <string name="decide">Decide</string>
+</resources>
